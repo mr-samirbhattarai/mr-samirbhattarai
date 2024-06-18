@@ -4,14 +4,16 @@
 
 <h2>🌱 Tools  and Technologies:</h2>
 <ul>
-<li>HTML, CSS, Javascript, Java, Python, Flutter</div></li>
+<li>HTML, CSS, Javascript, Java, Python, Dart</div></li>
 </ul>
 <br>
 
 <h2>🌱 Learning and exploring:</h2>
 <ul>
-<li>Advanced JavaScript frameworks (React, Vue)</li>
+<li>Advanced JavaScript frameworks (React, Angular)</li>
 <li>Backend development with Node.js and Express</li>
+<li>Modile Development with Flutter</li>
+<li>Designing (Figma)</li>
 </ul>
 <br>
 
@@ -34,10 +36,8 @@
 <ul>
 <li>Full-stack development</li>
 <li>Clean code practices</li>
+<li>Mobile Development</li>
+<li>Website, Apps and Graphics Desigining</li>
 <li>Tech career advice</li>
 </ul>
 <br>
-
-
-<h2>⚡ Fun fact:</h2>
-<p>I'm also a Creation enthusiast who loves creating content on social media.</p>
