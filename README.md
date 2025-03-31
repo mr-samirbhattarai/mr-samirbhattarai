@@ -17,7 +17,7 @@ I'm a passionate **Computer Science student** with a keen interest in **Full Sta
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/mr-samir-bhattarai)
-- Email: samirbhattarai2004@gmial.com
+- Email: samirbhattarai2004@gmail.com
 
 ### Upskilling Journey
 I’m actively exploring advanced concepts to enhance my skill set and take my development expertise to the next level.
