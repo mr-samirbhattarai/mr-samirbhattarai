@@ -21,3 +21,6 @@ I'm a passionate **Computer Science student** with a keen interest in **Full Sta
 
 ### Upskilling Journey
 I’m actively exploring advanced concepts to enhance my skill set and take my development expertise to the next level.
+
+### Why Developers' Community
+I want to join the developers' community to learn teamwork and explore more about programming and development related cncepts.
